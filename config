@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "azmiaskia"]
+	url = https://github.com/azmiaskia/latweb_azmi.git
+	fetch = +refs/heads/*:refs/remotes/azmiaskia/*
